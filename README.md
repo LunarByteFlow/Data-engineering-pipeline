@@ -5,7 +5,7 @@ This project takes raw FMCG (Fast-Moving Consumer Goods) business data—such as
 
 It processes data using **Databricks** and **PySpark**, following the **Medallion Architecture** (Bronze ➔ Silver ➔ Gold) to transform messy raw data into structured tables.
 
----
+
 
 ## 🔄 How the Data Pipeline Works
 
@@ -38,6 +38,6 @@ It processes data using **Databricks** and **PySpark**, following the **Medallio
 ---
 
 ## 🛠️ Tech Stack
-* **Platform:** Databricks[cite: 1, 2, 3, 4, 5]
-* **Storage:** AWS S3, Delta Lake[cite: 1, 2, 3, 4, 5]
-* **Languages:** PySpark, SQL[cite: 1, 2, 3, 4, 5]
+* **Platform:** Databricks
+* **Storage:** AWS S3, Delta Lake
+* **Languages:** PySpark, SQL
